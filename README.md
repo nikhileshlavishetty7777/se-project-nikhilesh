@@ -1,1 +1,1 @@
-# se-project-nikhilesh
+# se-project-nikhilesh Built a full-featured food management system handling inventory tracking, order processing, and supplier relationships. The system includes automated low-stock alerts, expiry date tracking, waste analytics, and a responsive admin dashboard. Supports multi-user roles with granular permissions.
